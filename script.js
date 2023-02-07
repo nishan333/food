@@ -52,4 +52,4 @@ function displayOrder() {
 document.getElementById("pizza-button").addEventListener("click", () => addToOrder("Pizza"));
 document.getElementById("hamburger-button").addEventListener("click", () => addToOrder("Hamburger"));
 document.getElementById("fries-button").addEventListener("click", () => addToOrder("Fries"));
-document.getElementById("drink-button").addEventListener("click", () => addToOrder("Drink"));
+document.getElementById("drink-button").addEventListener("click", () => addToOrder("Drinks"));
